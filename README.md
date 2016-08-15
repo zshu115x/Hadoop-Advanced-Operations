@@ -1,3 +1,3 @@
 # Hadoop-Advanced-Operations
 Project3 for Big Data Management
-See details in description.pdf
+See details in Problems Description
